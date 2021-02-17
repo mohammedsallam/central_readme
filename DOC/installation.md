@@ -1,9 +1,8 @@
 ## To install project follow next steps.
-    
+You need to install Composer first on your machine, you can download and install Composer from [#Here](https://getcomposer.org/doc/00-intro.md)
+
    1- Install composer.packages.
-    
-    You need to install Compser first on your machine, you can download and install Composer from [#Here](https://getcomposer.org/doc/00-intro.md)
-    
+      
     composer install 
     
    2- Create .env file.

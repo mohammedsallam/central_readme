@@ -5,7 +5,7 @@ Central application creates a new site and add admins and modules for this creat
 - [Installation](#installation)
 - [Structure](#structure)
 - [DB design](#db-design)
-- [How system works](#hاow-system-works)
+- [How system works](#how-system-works)
 - [Unit test](#unit-test)
 
 ## Requirements 

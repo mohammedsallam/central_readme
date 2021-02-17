@@ -1,4 +1,4 @@
-### Create new domain cycle:
+### Create domain:
 * First, call the `DomainController::store` function to store the domain information in the central database, 
 and the following is an explanation of the creation process.
     - Check ftp by `DomainOperationController::checkFtp` function and database connection by `DomainOperationController::checkDB` function.
